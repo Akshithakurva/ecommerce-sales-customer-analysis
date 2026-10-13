@@ -32,3 +32,8 @@ ASK -> PREPARE -> PROCESS -> ANALYZE -> SHARE -> ACT
 - Performed exploratory data analysis to identify product, customer, regional, and monthly sales trends.
 - Built a Tableau dashboard with KPI cards, sales trends, product/category performance, and customer insights.
 - Converted findings into actionable recommendations focused on profitability, customer retention, and regional performance.
+
+Project Links
+
+- Kaggle Notebook: "View Data Analysis" (https://www.kaggle.com/code/kurvaakshitha/e-commerce-sales-customer-analysis-python-eda)
+- Tableau Public Dashboard: "View Interactive Dashboard" (https://public.tableau.com/app/profile/kurva.akshitha/viz/E-commerceSalesCustomerAnalysis_17918784755750/E-commerceSalesDashboard)
